@@ -5,5 +5,7 @@ A basic stopwatch that allows users to track elapsed time with start, stop, and 
 - Start, stop, and reset buttons
 - Displays elapsed time in seconds
 - Minimalist and easy-to-use design
-**ScreenShots:**
+
+**ScreenShot:**
+  
 ![Stopwatch Screenshot](https://github.com/0-Hossam-0/Simple-Web-Programs/blob/main/Screrenshots/stopwatch.png)
