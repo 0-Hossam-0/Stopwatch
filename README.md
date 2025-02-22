@@ -8,4 +8,4 @@ A basic stopwatch that allows users to track elapsed time with start, stop, and 
 
 **ScreenShot:**
   
-![Stopwatch Screenshot](https://github.com/0-Hossam-0/Simple-Web-Programs/blob/main/Screrenshots/stopwatch.png)
+![Stopwatch Screenshot](https://github.com/0-Hossam-0/Stopwatch/blob/main/stopwatch.png)
